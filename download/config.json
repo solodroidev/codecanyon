@@ -7,7 +7,7 @@
     "admob_app_open_ad_unit_id": "ca-app-pub-3940256099942544/9257395921",
     "interstitial_ad_interval": 3,
     "native_ad_interval": 10,
-    "native_ad_index": 3,
+    "native_ad_index": 8,
     "force_update": false,
     "update_url": "https://play.google.com/store/apps/details?id=",
     "privacy_policy": "<p>Privacy Policy</p>"
