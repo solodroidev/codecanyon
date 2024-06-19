@@ -1,5 +1,11 @@
 [
   {
+    "name": "Радио Рекорд Technopop",
+    "category": "Music",
+    "url": "https://hls-01-radiorecord.hostingradio.ru/record-technopop/96/playlist.m3u8",
+    "logo": "https://static.radio.net/images/broadcasts/55/a6/114201/2/c175.png"
+  },
+  {
     "name": "Smart FM",
     "url": "http://86.107.235.38:9000/smartnroll",
     "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQST9U-yvCuibYbctrAAuuv5ZimalyLzHDfWOg0qT2Y-cUxGu8MqubkNz6-q6ZTuWGEMPPuIlLZDClifLGfr2Uz7qGNrvBW5w-fSzXYNKonKrGOD7ZXTQQVA7yZiUCXgMxb3zTmXFhxFHkihD2jfs64kVU0h6IhXIxx_Oq9muEzWPhlmakBLdqAMjs/s1600/1579-2021-08-26.jpg"
