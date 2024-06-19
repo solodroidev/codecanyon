@@ -1,68 +1,64 @@
 [
-    {
-        "name": "Smart FM",
-        "category": "Education",
-        "url": "http://86.107.235.38:9000/smartnroll",
-        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQST9U-yvCuibYbctrAAuuv5ZimalyLzHDfWOg0qT2Y-cUxGu8MqubkNz6-q6ZTuWGEMPPuIlLZDClifLGfr2Uz7qGNrvBW5w-fSzXYNKonKrGOD7ZXTQQVA7yZiUCXgMxb3zTmXFhxFHkihD2jfs64kVU0h6IhXIxx_Oq9muEzWPhlmakBLdqAMjs/s1600/1579-2021-08-26.jpg"
-    },
-    {
-        "name": "Radio Romania",
-        "category": "Classic",
-        "url": "http://mscp1.gazduireradio.ro:1130/stream",
-        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhncBzsRJM2RvoxqyEU4oZxZqegD1netevIEBXjaIwmZTGnPqZKDo0wTXc6j00YAOubLmxFxjJHpKmRjU_PZKFG6cmbqgf7ZyczH84vFQBcMMQMzMo9WgoBBa1zUlZuTxtR8yGVOuw28Zae2507_CVHAS-OO-6rBHuyFm7O0NpvIEsrM-Es9GWzSfXr/s1600/3590-2021-06-19.jpg"
-    },
-    {
-        "name": "Cool Fahrenheit 93",
-        "category": "Misc",
-        "url": "http://103.253.135.44:5004/",
-        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikExNAESxAO6pwTb2ZZ-cOszwBFziMfKRwvb8fLtpdXv4qePFj6jAnzOh87gipqwH1YNbiKgSI9kM5Pz9QZ7DZc3qrr1O2lHmK5htR8jnTy-iMTG7qlqhPtFt2UhEOD96O-I4Z5rom7gm9imnv2X2lfVjCq1qWmbWzOv3DtjCxM8XEtMa-YwqTCNJe/s1600/5640-2021-05-20.jpg"
-    },
-    {
-        "name": "Joy Hits",
-        "category": "Music",
-        "url": "http://51.210.241.217:8880/joyhits.mp3",
-        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1QtGQJTW1tSzkCYmuAYBAnoBOI4l6loRSjWAudzz8M5RxzgIYjXyPfSxATT3425ANkEr-hXvOw0Gh_2XwwIpw6QeQwdEwtkG2pmVtSvhepP8jDMThWhSyvvjklVMSSHr-jA2bIupaOfs3Hm6mFQHV_3YezKOFOysa70ynfRG6_FwnqzgURgzvydZL/s1600/8434-2021-05-18.jpg"
-    },
-    {
-        "name": "ANTENA1 - 94,7 FM",
-        "category": "Classic",
-        "url": "http://audio.livecastnet.com:1890/stream",
-        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOod3VR3KZBSXjy0oYZWjsVlDQ85X-KcHT4NRhrWsnk_XauVgJ_Mv5oP3ekaDLBmyhDawbF0AP_ai4OKDOF-fAdkv_H7rSAwWkjF5PkZxRNaD1PPD_ZI60k8JIj4uvYVEwHazjHr_v0xwrfxz3yLy6NDBVDmbUbJiW5T_Iws4O5CaeZhkKA8U83SsJ/s1600/5778-2021-05-18.jpg"
-    },
-    {
-        "name": "Dance Wave Retro",
-        "category": "Music",
-        "url": "http://stream.dancewave.online:8080/dance.mp3",
-        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsv0RnUPnnr5X_A9_MM9PuG4C12lkbPX2Z9UEtsSal1ntd7mG2I6mFM1qB_27o0xX6FtAzOt7_0JFBpC4NQCisR7rFA54azhVUVtogXFTuEROc4tSCluR7pUvZJj5tqFf4iQVDbc2IvkPW1OlLE1SdbhEWvJke0lMG5T2YjnojgtQU0BOaGQ3e1mJs/s1600/8333-2021-05-18.jpg"
-    },
-    {
-        "name": "NG Radio Indonesia",
-        "category": "Misc",
-        "url": "http://live.serverstreaming.net:8000/max-radio",
-        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1XNEwibUSzrLPxjJoqkeluZyLhI-dI1MxYmUl-Q31Av7fM-uWr5POU0Qt9alXIVcI2vFXzC4eax096_7jldAyXlT-Lr06mbpBezrMIDaDMljo_02zN2Gr7YBWdjCTLjmp42wB95pMmmDgE_4zJuYmd2E6yE2tDvLVn3Db62ntskofMt5E9k9gi2Zx/s1600/8442-2020-07-07.jpg"
-    },
-    {
-        "name": "Radio 2.0 - Valli di Bergamo",
-        "category": "World",
-        "url": "http://46.252.154.133:8080/",
-        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhqYcKZ9QGkuYuis1oKs1b8_pA6QMb-sNhL7UbdENLduEk9wr32QyzEfyc2FiBRCLIiwN1D8bYMXpH8EhKTeODrWwJ2anSBP9iFxuNJKRmZS94s_HhPkrLpBz94Q8JWgpPGWQYYVaG71QED9iJMCq3X7vqXTF-yGz1JYOH2toUOj7YjpaC15TYeK6Y/s1600/0894-2019-05-03.jpg"
-    },
-    {
-        "name": "V Radio FM Jakarta",
-        "category": "World",
-        "url": "http://193.0.98.66:8005/",
-        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4Dw4bGvCiiZf_uX-4EGMRgLS07EWIgr2Zyx1SaoRpA40pYyWQCqJgZkke87jqFxTQ_M0Kcn9_BntQhdreWPkSqWaoqrGiP_GL-Yi9TmKpEbRSq2rrQhNPHiaB7h54Vc5rzoTC5zo-vainzBkvAyC37ADAVIQjZWE155sBhpk9ql6PYYOfVNolvbW5/s1600/7913-2017-11-07.jpg"
-    },
-    {
-        "name": "Suara Madu FM",
-        "category": "Misc",
-        "url": "http://79.172.214.45:35000/live.mp3",
-        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYrfein2TiyYf4VF2QwfIQgjR3Ty78A06wi0NsJJnPQvB4ueJnm2OvRjR1WMDJae--BKwT2bRcSWWqY3xjuv89myn4vmZKlz3lRDExX3lfcNQohwf4_cCvZXCoYqu8at2nqHSQbkzOT78t_Dkz5X5Nqvz6N30TQDiUmta0oWLYIX-tBch32PfeiPHz/s320/0253-2015-11-15.jpg"
-    },
-    {
-        "name": "Radio Zelengrad",
-        "category": "World",
-        "url": "http://51.222.8.101:8000/stream",
-        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjS45z3R0EHPTd7DUoX96P_KFI65CvOvLHg_5hf8LtIB2c7wiFYjLbgsXluReVcC0hXTHa3LSp08mIWvGSk7sXi35yLOW-SuAGgHSXG__Ul_iOwHF_d_rdEBfmrSrTYCG7PsMUZxrvE29SESfR4ROgtC5ZwMH_my-2HnpHEjS8HHmvJdbB1tL6UGf6S/s320/8896-2015-11-15.jpg"
-    }
+  {
+    "name": "Smart FM",
+    "url": "http://86.107.235.38:9000/smartnroll",
+    "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQST9U-yvCuibYbctrAAuuv5ZimalyLzHDfWOg0qT2Y-cUxGu8MqubkNz6-q6ZTuWGEMPPuIlLZDClifLGfr2Uz7qGNrvBW5w-fSzXYNKonKrGOD7ZXTQQVA7yZiUCXgMxb3zTmXFhxFHkihD2jfs64kVU0h6IhXIxx_Oq9muEzWPhlmakBLdqAMjs/s1600/1579-2021-08-26.jpg"
+  },
+  {
+    "name": "Radio Romania",
+    "category": "Classic",
+    "url": "http://mscp1.gazduireradio.ro:1130/stream"
+  },
+  {
+    "name": "Cool Fahrenheit 93",
+    "url": "http://103.253.135.44:5004/"
+  },
+  {
+    "name": "Joy Hits",
+    "category": "",
+    "url": "http://51.210.241.217:8880/joyhits.mp3",
+    "logo": ""
+  },
+  {
+    "name": "ANTENA1 - 94,7 FM",
+    "category": "Classic",
+    "url": "http://audio.livecastnet.com:1890/stream",
+    "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOod3VR3KZBSXjy0oYZWjsVlDQ85X-KcHT4NRhrWsnk_XauVgJ_Mv5oP3ekaDLBmyhDawbF0AP_ai4OKDOF-fAdkv_H7rSAwWkjF5PkZxRNaD1PPD_ZI60k8JIj4uvYVEwHazjHr_v0xwrfxz3yLy6NDBVDmbUbJiW5T_Iws4O5CaeZhkKA8U83SsJ/s1600/5778-2021-05-18.jpg"
+  },
+  {
+    "name": "Dance Wave Retro",
+    "category": "Music",
+    "url": "http://stream.dancewave.online:8080/dance.mp3",
+    "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsv0RnUPnnr5X_A9_MM9PuG4C12lkbPX2Z9UEtsSal1ntd7mG2I6mFM1qB_27o0xX6FtAzOt7_0JFBpC4NQCisR7rFA54azhVUVtogXFTuEROc4tSCluR7pUvZJj5tqFf4iQVDbc2IvkPW1OlLE1SdbhEWvJke0lMG5T2YjnojgtQU0BOaGQ3e1mJs/s1600/8333-2021-05-18.jpg"
+  },
+  {
+    "name": "NG Radio Indonesia",
+    "category": "Misc",
+    "url": "http://live.serverstreaming.net:8000/max-radio",
+    "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1XNEwibUSzrLPxjJoqkeluZyLhI-dI1MxYmUl-Q31Av7fM-uWr5POU0Qt9alXIVcI2vFXzC4eax096_7jldAyXlT-Lr06mbpBezrMIDaDMljo_02zN2Gr7YBWdjCTLjmp42wB95pMmmDgE_4zJuYmd2E6yE2tDvLVn3Db62ntskofMt5E9k9gi2Zx/s1600/8442-2020-07-07.jpg"
+  },
+  {
+    "name": "Radio 2.0 - Valli di Bergamo",
+    "category": "World",
+    "url": "http://46.252.154.133:8080/",
+    "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhqYcKZ9QGkuYuis1oKs1b8_pA6QMb-sNhL7UbdENLduEk9wr32QyzEfyc2FiBRCLIiwN1D8bYMXpH8EhKTeODrWwJ2anSBP9iFxuNJKRmZS94s_HhPkrLpBz94Q8JWgpPGWQYYVaG71QED9iJMCq3X7vqXTF-yGz1JYOH2toUOj7YjpaC15TYeK6Y/s1600/0894-2019-05-03.jpg"
+  },
+  {
+    "name": "V Radio FM Jakarta",
+    "category": "World",
+    "url": "http://193.0.98.66:8005/",
+    "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4Dw4bGvCiiZf_uX-4EGMRgLS07EWIgr2Zyx1SaoRpA40pYyWQCqJgZkke87jqFxTQ_M0Kcn9_BntQhdreWPkSqWaoqrGiP_GL-Yi9TmKpEbRSq2rrQhNPHiaB7h54Vc5rzoTC5zo-vainzBkvAyC37ADAVIQjZWE155sBhpk9ql6PYYOfVNolvbW5/s1600/7913-2017-11-07.jpg"
+  },
+  {
+    "name": "Suara Madu FM",
+    "category": "Misc",
+    "url": "http://79.172.214.45:35000/live.mp3",
+    "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYrfein2TiyYf4VF2QwfIQgjR3Ty78A06wi0NsJJnPQvB4ueJnm2OvRjR1WMDJae--BKwT2bRcSWWqY3xjuv89myn4vmZKlz3lRDExX3lfcNQohwf4_cCvZXCoYqu8at2nqHSQbkzOT78t_Dkz5X5Nqvz6N30TQDiUmta0oWLYIX-tBch32PfeiPHz/s320/0253-2015-11-15.jpg"
+  },
+  {
+    "name": "Radio Zelengrad",
+    "category": "World",
+    "url": "http://51.222.8.101:8000/stream",
+    "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjS45z3R0EHPTd7DUoX96P_KFI65CvOvLHg_5hf8LtIB2c7wiFYjLbgsXluReVcC0hXTHa3LSp08mIWvGSk7sXi35yLOW-SuAGgHSXG__Ul_iOwHF_d_rdEBfmrSrTYCG7PsMUZxrvE29SESfR4ROgtC5ZwMH_my-2HnpHEjS8HHmvJdbB1tL6UGf6S/s320/8896-2015-11-15.jpg"
+  }
 ]
