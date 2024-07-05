@@ -5,6 +5,7 @@
     "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
     "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
     "admob_app_open_ad_unit_id": "0",
+    "banner_ad_position": 1,
     "interstitial_ad_interval": 3,
     "native_ad_interval": 10,
     "native_ad_index": 8,
