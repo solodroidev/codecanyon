@@ -6,6 +6,12 @@
         "url": "https://www.facebook.com/solodroid.net"
     },
     {
+        "enable": "false",
+        "name": "twitter",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI-h-e2hgz8mwGfCt4gvj4IgMG_wAUolVM6w&s",
+        "url": "https://x.com/solodroiddev"
+    },
+    {
         "enable": "true",
         "name": "instagram",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1000px-Instagram_logo_2022.svg.png",
